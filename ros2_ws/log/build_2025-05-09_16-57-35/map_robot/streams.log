@@ -1,0 +1,36 @@
+[0.499s] Invoking command in '/home/oubaid/ros2_ws/src/map_robot': PYTHONPATH=/home/oubaid/ros2_ws/build/map_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/oubaid/ros2_ws/install/map_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/map_robot build --build-base /home/oubaid/ros2_ws/build/map_robot/build install --record /home/oubaid/ros2_ws/build/map_robot/install.log --single-version-externally-managed install_data
+[0.658s] running egg_info
+[0.658s] creating ../../build/map_robot/map_robot.egg-info
+[0.658s] writing ../../build/map_robot/map_robot.egg-info/PKG-INFO
+[0.658s] writing dependency_links to ../../build/map_robot/map_robot.egg-info/dependency_links.txt
+[0.658s] writing entry points to ../../build/map_robot/map_robot.egg-info/entry_points.txt
+[0.658s] writing requirements to ../../build/map_robot/map_robot.egg-info/requires.txt
+[0.658s] writing top-level names to ../../build/map_robot/map_robot.egg-info/top_level.txt
+[0.659s] writing manifest file '../../build/map_robot/map_robot.egg-info/SOURCES.txt'
+[0.660s] reading manifest file '../../build/map_robot/map_robot.egg-info/SOURCES.txt'
+[0.660s] writing manifest file '../../build/map_robot/map_robot.egg-info/SOURCES.txt'
+[0.660s] running build
+[0.660s] running build_py
+[0.660s] creating /home/oubaid/ros2_ws/build/map_robot/build
+[0.660s] creating /home/oubaid/ros2_ws/build/map_robot/build/lib
+[0.660s] creating /home/oubaid/ros2_ws/build/map_robot/build/lib/map_robot
+[0.660s] copying map_robot/__init__.py -> /home/oubaid/ros2_ws/build/map_robot/build/lib/map_robot
+[0.661s] copying map_robot/ultrasonic_to_laserscan.py -> /home/oubaid/ros2_ws/build/map_robot/build/lib/map_robot
+[0.661s] running install
+[0.661s] running install_lib
+[0.661s] creating /home/oubaid/ros2_ws/install/map_robot/lib/python3.10/site-packages/map_robot
+[0.661s] copying /home/oubaid/ros2_ws/build/map_robot/build/lib/map_robot/__init__.py -> /home/oubaid/ros2_ws/install/map_robot/lib/python3.10/site-packages/map_robot
+[0.662s] copying /home/oubaid/ros2_ws/build/map_robot/build/lib/map_robot/ultrasonic_to_laserscan.py -> /home/oubaid/ros2_ws/install/map_robot/lib/python3.10/site-packages/map_robot
+[0.662s] byte-compiling /home/oubaid/ros2_ws/install/map_robot/lib/python3.10/site-packages/map_robot/__init__.py to __init__.cpython-310.pyc
+[0.662s] byte-compiling /home/oubaid/ros2_ws/install/map_robot/lib/python3.10/site-packages/map_robot/ultrasonic_to_laserscan.py to ultrasonic_to_laserscan.cpython-310.pyc
+[0.663s] running install_data
+[0.663s] creating /home/oubaid/ros2_ws/install/map_robot/share/ament_index
+[0.663s] creating /home/oubaid/ros2_ws/install/map_robot/share/ament_index/resource_index
+[0.663s] creating /home/oubaid/ros2_ws/install/map_robot/share/ament_index/resource_index/packages
+[0.663s] copying resource/map_robot -> /home/oubaid/ros2_ws/install/map_robot/share/ament_index/resource_index/packages
+[0.663s] copying package.xml -> /home/oubaid/ros2_ws/install/map_robot/share/map_robot
+[0.663s] running install_egg_info
+[0.664s] Copying ../../build/map_robot/map_robot.egg-info to /home/oubaid/ros2_ws/install/map_robot/lib/python3.10/site-packages/map_robot-0.0.0-py3.10.egg-info
+[0.665s] running install_scripts
+[0.678s] writing list of installed files to '/home/oubaid/ros2_ws/build/map_robot/install.log'
+[0.695s] Invoked command in '/home/oubaid/ros2_ws/src/map_robot' returned '0': PYTHONPATH=/home/oubaid/ros2_ws/build/map_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/oubaid/ros2_ws/install/map_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/map_robot build --build-base /home/oubaid/ros2_ws/build/map_robot/build install --record /home/oubaid/ros2_ws/build/map_robot/install.log --single-version-externally-managed install_data
